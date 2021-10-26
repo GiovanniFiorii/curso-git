@@ -1,0 +1,14 @@
+C:\Projetos\Udemy\Exercícios (POO)\Vetores\Exercício-1\Exercício-1\bin\Debug\netcoreapp3.1\Exercício-1.exe
+C:\Projetos\Udemy\Exercícios (POO)\Vetores\Exercício-1\Exercício-1\bin\Debug\netcoreapp3.1\Exercício-1.deps.json
+C:\Projetos\Udemy\Exercícios (POO)\Vetores\Exercício-1\Exercício-1\bin\Debug\netcoreapp3.1\Exercício-1.runtimeconfig.json
+C:\Projetos\Udemy\Exercícios (POO)\Vetores\Exercício-1\Exercício-1\bin\Debug\netcoreapp3.1\Exercício-1.runtimeconfig.dev.json
+C:\Projetos\Udemy\Exercícios (POO)\Vetores\Exercício-1\Exercício-1\bin\Debug\netcoreapp3.1\Exercício-1.dll
+C:\Projetos\Udemy\Exercícios (POO)\Vetores\Exercício-1\Exercício-1\bin\Debug\netcoreapp3.1\Exercício-1.pdb
+C:\Projetos\Udemy\Exercícios (POO)\Vetores\Exercício-1\Exercício-1\obj\Debug\netcoreapp3.1\Exercício-1.csproj.AssemblyReference.cache
+C:\Projetos\Udemy\Exercícios (POO)\Vetores\Exercício-1\Exercício-1\obj\Debug\netcoreapp3.1\Exercício-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Udemy\Exercícios (POO)\Vetores\Exercício-1\Exercício-1\obj\Debug\netcoreapp3.1\Exercício-1.AssemblyInfoInputs.cache
+C:\Projetos\Udemy\Exercícios (POO)\Vetores\Exercício-1\Exercício-1\obj\Debug\netcoreapp3.1\Exercício-1.AssemblyInfo.cs
+C:\Projetos\Udemy\Exercícios (POO)\Vetores\Exercício-1\Exercício-1\obj\Debug\netcoreapp3.1\Exercício-1.csproj.CoreCompileInputs.cache
+C:\Projetos\Udemy\Exercícios (POO)\Vetores\Exercício-1\Exercício-1\obj\Debug\netcoreapp3.1\Exercício-1.dll
+C:\Projetos\Udemy\Exercícios (POO)\Vetores\Exercício-1\Exercício-1\obj\Debug\netcoreapp3.1\Exercício-1.pdb
+C:\Projetos\Udemy\Exercícios (POO)\Vetores\Exercício-1\Exercício-1\obj\Debug\netcoreapp3.1\Exercício-1.genruntimeconfig.cache
